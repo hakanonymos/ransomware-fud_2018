@@ -20,3 +20,5 @@ To use this ransomware
 Open Visual Studio change 1) ,2), 3), 4) 
 
 https://www.youtube.com/watch?v=2r9zQUkbvx8&t=11s 
+
+jute education 
