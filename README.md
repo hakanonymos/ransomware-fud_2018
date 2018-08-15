@@ -19,6 +19,10 @@ To use this ransomware
 
 Open Visual Studio change 1) ,2), 3), 4) 
 
-https://www.youtube.com/watch?v=2r9zQUkbvx8&t=11s 
+https://www.youtube.com/watch?v=2r9zQUkbvx8&t=11s  ransomware vs AVAST ANTIVIRUS 
+
+https://www.youtube.com/watch?v=UQ2UOsGUQpM&feature=youtu.be    ransomware vs AVIRA  ,AVAST
 
 juste for education 
+
+ALL FILE CAN NOT BE DECRYPTED 
