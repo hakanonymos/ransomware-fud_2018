@@ -1,7 +1,7 @@
 # ransomware-fud_2018 
 this ransomware encrypts all the files of the hard drive, Disk D, E .... USB key,I'm in no way responsible for your actions it's just to learn programming ransomware . tutoriel youtub https://www.youtube.com/watch?v=2r9zQUkbvx8&t=11s 
 I tested in the video with Avast antivirus, it is no longer detected by free antivirus, Avast, Avira ...... etc
-
+https://www.youtube.com/watch?v=UQ2UOsGUQpM&feature=youtu.be  RANSOMWARE VS AVAST AND AVIRA ANTIVIRUS
  I just used the loocky message :
  
  Your files are encrypted with RSA-2048 and AES-128 encryption.
