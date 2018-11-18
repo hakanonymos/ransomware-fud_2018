@@ -25,4 +25,4 @@ https://www.youtube.com/watch?v=UQ2UOsGUQpM&feature=youtu.be    ransomware vs AV
 
 juste for education 
 
-ALL FILE CAN NOT BE DECRYPTED 
+ALL FILES CAN NOT BE DECRYPTED 
